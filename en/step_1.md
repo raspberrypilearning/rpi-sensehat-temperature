@@ -1,8 +1,3 @@
---- step ---
----
-title: Sense HAT: Temperature readings
----
-
 - In a Python file, enter the following code:
 
     ```python
@@ -28,4 +23,3 @@ title: Sense HAT: Temperature readings
   - `get_temperature_from_pressure` reads the temperature from the pressure sensor
 
 
---- /step ---
