@@ -1,3 +1,6 @@
+
+The Sense HAT has two sensors capable of reading the ambient temperature: the humidity sensor and the pressure sensor. `get_temperature_from_humidity` reads the temperature from the humidity sensor (`get_temperature` is a short version of the same command). `get_temperature_from_pressure` reads the temperature from the pressure sensor.
+
 - In a Python file, enter the following code:
 
     ```python
@@ -17,9 +20,5 @@
     ```bash
     28.6293258667
     ```
-
-- The Sense HAT has two sensors capable of reading the temperature - the humidity sensor and the pressure sensor.
-  - `get_temperature_from_humidity` reads the temperature from the humidity sensor, (`get_temperature` is a short version of the same command)
-  - `get_temperature_from_pressure` reads the temperature from the pressure sensor
 
 
