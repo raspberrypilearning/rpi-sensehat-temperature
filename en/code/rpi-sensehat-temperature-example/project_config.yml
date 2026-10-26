@@ -1,0 +1,4 @@
+name: "Sense HAT temperature"
+identifier: "rpi-sensehat-temperature-example"
+type: 'python'
+build: true
